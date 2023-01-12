@@ -1,5 +1,9 @@
 # polines_news
 
+### Screenshoot Aplikasi
+
+<img src="https://user-images.githubusercontent.com/118190360/212039915-c2e3bbff-e869-4cbe-bd8d-ea3f5c22da13.png" width="600px">
+<img src="https://user-images.githubusercontent.com/118190360/212039930-1af12e26-eb27-4709-bdda-7c6ac5fded85.png" width="600px">
 A new Flutter project.
 
 ## Getting Started
